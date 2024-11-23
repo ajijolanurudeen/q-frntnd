@@ -1,0 +1,17 @@
+.favorites-container{
+    margin-top: 30px;
+    padding: 0 10%;
+}
+.favorites-container h2 {
+    font-size: 1.8em;
+    color: #4caf50;
+    margin-bottom: 10px;
+}
+.favorites-container ul{
+    list-style-type:none ;
+    padding: 0;
+}
+.favorites-container li{
+    font-size: 1.2em;
+    margin: 5px 0;
+}
