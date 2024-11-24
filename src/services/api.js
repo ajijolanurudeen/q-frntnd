@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "https://3b080923-f370-4736-86c8-4328ae284da7-00-lgi9qj86ur5b.spock.replit.dev/";
+const BASE_URL = "https://q-bcknd.onrender.com";
 
 export const getRandomQoute = async()=> {
     const response = await axios.get(`${BASE_URL}/quote`);
